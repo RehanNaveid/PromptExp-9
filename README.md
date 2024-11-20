@@ -48,7 +48,7 @@ To explore and understand the various prompting techniques used for generating v
 
 "A spaceship traveling through space, surrounded by stars." 
 
-**Video:** https://drive.google.com/file/d/1CbVYt7vnMAuJGfzAN49Yf0HOwt3QdPYW/view?usp=drive\_ link 
+**Video:** https://drive.google.com/file/d/1CbVYt7vnMAuJGfzAN49Yf0HOwt3QdPYW/view?usp=drive\_link 
 
 2. **Refined Prompt Version** 
 
@@ -108,7 +108,7 @@ https://drive.google.com/file/d/1uJ2jI1ivO606TZF0YB8qTGC5hkw0tkey/view?usp=drive
 
 **Video:** 
 
-https://drive.google.com/file/d/1XBQUDsvP5rxkKwu8aPQsqufF7gxbmSxC/view?usp ==drive\_link 
+https://drive.google.com/file/d/1XBQUDsvP5rxkKwu8aPQsqufF7gxbmSxC/view?usp==drive\_link 
 
 **Conclusion** 
 
